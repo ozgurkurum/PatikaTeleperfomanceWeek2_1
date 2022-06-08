@@ -1,0 +1,16 @@
+C:\Users\krmoz\Desktop\Hafta2-OzgurKurum\Hafta2-OzgurKurum\bin\Debug\net5.0\Hafta2-OzgurKurum.exe
+C:\Users\krmoz\Desktop\Hafta2-OzgurKurum\Hafta2-OzgurKurum\bin\Debug\net5.0\Hafta2-OzgurKurum.deps.json
+C:\Users\krmoz\Desktop\Hafta2-OzgurKurum\Hafta2-OzgurKurum\bin\Debug\net5.0\Hafta2-OzgurKurum.runtimeconfig.json
+C:\Users\krmoz\Desktop\Hafta2-OzgurKurum\Hafta2-OzgurKurum\bin\Debug\net5.0\Hafta2-OzgurKurum.runtimeconfig.dev.json
+C:\Users\krmoz\Desktop\Hafta2-OzgurKurum\Hafta2-OzgurKurum\bin\Debug\net5.0\Hafta2-OzgurKurum.dll
+C:\Users\krmoz\Desktop\Hafta2-OzgurKurum\Hafta2-OzgurKurum\bin\Debug\net5.0\ref\Hafta2-OzgurKurum.dll
+C:\Users\krmoz\Desktop\Hafta2-OzgurKurum\Hafta2-OzgurKurum\bin\Debug\net5.0\Hafta2-OzgurKurum.pdb
+C:\Users\krmoz\Desktop\Hafta2-OzgurKurum\Hafta2-OzgurKurum\obj\Debug\net5.0\Hafta2-OzgurKurum.csproj.AssemblyReference.cache
+C:\Users\krmoz\Desktop\Hafta2-OzgurKurum\Hafta2-OzgurKurum\obj\Debug\net5.0\Hafta2-OzgurKurum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krmoz\Desktop\Hafta2-OzgurKurum\Hafta2-OzgurKurum\obj\Debug\net5.0\Hafta2-OzgurKurum.AssemblyInfoInputs.cache
+C:\Users\krmoz\Desktop\Hafta2-OzgurKurum\Hafta2-OzgurKurum\obj\Debug\net5.0\Hafta2-OzgurKurum.AssemblyInfo.cs
+C:\Users\krmoz\Desktop\Hafta2-OzgurKurum\Hafta2-OzgurKurum\obj\Debug\net5.0\Hafta2-OzgurKurum.csproj.CoreCompileInputs.cache
+C:\Users\krmoz\Desktop\Hafta2-OzgurKurum\Hafta2-OzgurKurum\obj\Debug\net5.0\Hafta2-OzgurKurum.dll
+C:\Users\krmoz\Desktop\Hafta2-OzgurKurum\Hafta2-OzgurKurum\obj\Debug\net5.0\ref\Hafta2-OzgurKurum.dll
+C:\Users\krmoz\Desktop\Hafta2-OzgurKurum\Hafta2-OzgurKurum\obj\Debug\net5.0\Hafta2-OzgurKurum.pdb
+C:\Users\krmoz\Desktop\Hafta2-OzgurKurum\Hafta2-OzgurKurum\obj\Debug\net5.0\Hafta2-OzgurKurum.genruntimeconfig.cache
